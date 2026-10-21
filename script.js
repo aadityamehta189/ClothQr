@@ -1,4 +1,5 @@
-console.log("Hello")
+const value = window.location.pathname.slice(1);
+console.log(value);
 passkey = "lbs"
 
 function enter(){
